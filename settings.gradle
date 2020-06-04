@@ -1,0 +1,2 @@
+rootProject.name='ClientService2'
+include ':app'
